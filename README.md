@@ -1,3 +1,4 @@
+![CI Pipeline](https://github.com/Biswajitsahoo51/devops-internship-task/actions/workflows/main.yml/badge.svg)
 # DevOps CI/CD Internship Task
 
 ## Project Overview
