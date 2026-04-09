@@ -1,2 +1,2 @@
-# devops-internship-task1
+# devops-internship-task
 Automate Code Deployment Using CI/CD Pipeline
